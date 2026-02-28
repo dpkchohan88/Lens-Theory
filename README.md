@@ -34,3 +34,26 @@ This framework makes specific, falsifiable predictions for upcoming data release
 
 ## Citation
 Kumar, D. (2026). *Lens Theory: Unified Resolution of Cosmological Tensions from Phase Accessibility Dynamics*. Independent Research.
+
+
+# Lens Theory
+
+[![Release](https://img.shields.io/github/v/release/dpkchohan88/Lens-Theory)](https://github.com/dpkchohan88/Lens-Theory/releases)
+[![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FXXXXX-blue)](https://osf.io/xxxxx/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19irMo91ZRcMeKmvPJvxy3O2jIJaIzMDn)
+
+A phase-decoherence model of cosmology addressing H₀ and σ₈ tensions.
+
+## Citation
+```
+Kumar, D. (2026). Lens Theory: Numerical Verification Suite v3.0.
+https://doi.org/10.17605/OSF.IO/XXXXX
+```
+
+## Key Results
+
+- γ₀ = 0.181 ± 0.023 (independent convergence)
+- Universal correlation Ψ = 3.7884 (10⁻¹⁶ precision)
+- χ² = 1.435 (DESI 2024 fit)
+
+[Rest of your README...]
